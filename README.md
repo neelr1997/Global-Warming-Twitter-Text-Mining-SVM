@@ -10,6 +10,6 @@ Climate change deniers have argued that there has been a “pause” or a “slo
 
 ### Goal:
 
-To analyze and Train a Model over tweet dataset where we do Natural Language tasks over the dataset & describes the sentiment of public over the topic of global Warming and Climate Change over Tweeter Streamer
+To analyze and Train a Model over tweet dataset where we do Natural Language tasks over the dataset & describes the sentiment of public over the topic of global Warming and Climate Change over Tweeter Streamer.
 
 [Link to Jupyter Notebook](Global Warming Tweet Text Mining & SVM.ipynb)
