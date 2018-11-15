@@ -10,6 +10,6 @@ Climate change deniers have argued that there has been a “pause” or a “slo
 
 To analyze and Train a Model over tweet dataset where we do Natural Language tasks over the dataset & describes the sentiment of public over the topic of global Warming and Climate Change over Tweeter Streamer.
 
-
-<centre><a href="Global Warming Tweet Text Mining & SVM.ipynb">Link to Jupyter Notebook:<img src ="https://jrogel.com/wp-content/uploads/2015/08/Jupyter.jpg" height =240/></a></centre>
+For Analysis please follow the following Link to Jupyter Notebook: 
+<centre><a href="Global Warming Tweet Text Mining & SVM.ipynb">Global Warming Tweet Text Mining & SVM.ipynb<img src ="https://jrogel.com/wp-content/uploads/2015/08/Jupyter.jpg" height =240/></a></centre>
 
