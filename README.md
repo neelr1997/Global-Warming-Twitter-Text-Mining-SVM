@@ -1,6 +1,7 @@
 # Global-Warming-Twitter-Text-Mining-SVM
 
 ---
+<img src ="https://jrogel.com/wp-content/uploads/2015/08/Jupyter.jpg" height =240>
 
 ### Target Question: 
 Over the past 50 years, the average <b>global temperature</b> has increased at the fastest rate in recorded history. And experts see the trend is accelerating: All but one of the 16 hottest years in NASA’s 134-year record have occurred since 2000. 
@@ -11,5 +12,5 @@ Climate change deniers have argued that there has been a “pause” or a “slo
 To analyze and Train a Model over tweet dataset where we do Natural Language tasks over the dataset & describes the sentiment of public over the topic of global Warming and Climate Change over Tweeter Streamer.
 
 For Analysis please follow the following Link to Jupyter Notebook: 
-<centre><a href="Global Warming Tweet Text Mining & SVM.ipynb">Global Warming Tweet Text Mining & SVM.ipynb<img src ="https://jrogel.com/wp-content/uploads/2015/08/Jupyter.jpg" height =240/></a></centre>
+<a href="Global Warming Tweet Text Mining & SVM.ipynb">Global Warming Tweet Text Mining & SVM.ipynb</a>
 
