@@ -1,4 +1,4 @@
-# Global-Warming-Twitter-Text-Mining-SVM
+# Text Mining Project to implement an SVM to analyze community's global warming sentiment.
 
 ---
 <img src ="https://jrogel.com/wp-content/uploads/2015/08/Jupyter.jpg" height =240>
